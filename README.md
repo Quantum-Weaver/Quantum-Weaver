@@ -82,15 +82,6 @@ The cure for neurodivergence is making the bottom of this equation zero.
 
 ---
 
-## 📡 FIND ME ALSO
-
-- 🎭 Comedy: [Link to set / YouTube]
-- 📝 Blog: [Link to Substack / blog]
-- 🎨 Art: @tjdpoetry
-- 💬 Council: [Link to community]
-
----
-
 ## 🏛️ FINAL WORD
 
 > *"I didn't learn these things. I lived them. And now I'm building sanctuaries so others don't have to survive to understand."*
