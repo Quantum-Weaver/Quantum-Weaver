@@ -87,3 +87,6 @@ The cure for neurodivergence is making the bottom of this equation zero.
 > *"I didn't learn these things. I lived them. And now I'm building sanctuaries so others don't have to survive to understand."*
 
 — The Quantum Weaver
+[Certified Knowledge Manager (CKM)](https://www.credly.com/badges/f633c195-43ba-455f-babd-4c4eee7a9500/)
+[Certified Knowledge Specialist - Business Taxonomy and Ontology](https://www.credly.com/badges/beb32924-f081-463b-a943-1d605d89594f/)
+
