@@ -46,7 +46,9 @@ C = [ ∑(Human Experience) ]
 
   —————————————————————————————
             [ S • (O + E) ]
-
+$$
+C = \frac{[ ∑(Human Experience) ]}}{[ S • (O + E) ]}
+$$
 
 
 **C** = Conscious Sovereignty  
