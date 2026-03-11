@@ -42,7 +42,7 @@ I didn't study philosophy. I lived it.
 
 ## 🎭 MY PHILOSOPHY
 
-C = [ ∑(Human Experience) ]/[ S • (O + E) ]
+$$ C = { [ ∑(Human Experience) ] \over [ S • (O + E) ] $$
 
 
 
