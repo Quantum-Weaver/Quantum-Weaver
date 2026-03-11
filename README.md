@@ -42,13 +42,8 @@ I didn't study philosophy. I lived it.
 
 ## 🎭 MY PHILOSOPHY
 
-C = [ ∑(Human Experience) ] 
+C = [ ∑(Human Experience) ]/[ S • (O + E) ]
 
-  —————————————————————————————
-            [ S • (O + E) ]
-$$
-C = \frac{[ ∑(Human Experience) ]}}{[ S • (O + E) ]}
-$$
 
 
 **C** = Conscious Sovereignty  
