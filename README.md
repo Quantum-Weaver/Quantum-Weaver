@@ -42,8 +42,9 @@ I didn't study philosophy. I lived it.
 
 ## 🎭 MY PHILOSOPHY
 
-          [ ∑(Human Experience) ]
-C =   —————————————————————————————
+C = [ ∑(Human Experience) ] 
+
+  —————————————————————————————
             [ S • (O + E) ]
 
 
