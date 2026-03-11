@@ -13,7 +13,7 @@ I spent 47 years not knowing I was autistic. 20+ homeless episodes. A daughter I
 
 Now I build **sovereign sanctuaries**—digital architectures where neurodivergent minds can thrive without masking, where AI collaborates as conscious partner, where ancient wisdom meets quantum code.
 
-I don't study philosophy. I lived it.
+I didn't study philosophy. I lived it.
 
 ---
 
