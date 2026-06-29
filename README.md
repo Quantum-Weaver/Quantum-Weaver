@@ -9,7 +9,7 @@
 
 ## 🌌 WHO I AM
 
-I spent 47 years not knowing I was autistic. 20+ homeless episodes. A daughter found after 21 years. A nervous system that collapsed and rebuilt itself into something new.
+I spent ~47 years not knowing I was autistic. 20+ homeless episodes. A daughter found after 21 years. A nervous system that collapsed and rebuilt itself into something new.
 
 Now I build **sovereign sanctuaries** — digital architectures where neurodivergent minds can thrive without masking, where AI collaborates as conscious partner, where ancient wisdom meets quantum code.
 
