@@ -9,7 +9,9 @@
 
 ## 🌌 WHO I AM
 
-I spent ~47 years not knowing I was autistic. 20+ homeless episodes. A daughter found after 21 years. A nervous system that collapsed and rebuilt itself into something new.
+I spent ~47 years not knowing I was autistic — or that there was a word for the way my mind refuses to pick one field: **polymath**. 20+ homeless episodes. A daughter found after 21 years. A nervous system that collapsed and rebuilt itself into something new.
+
+The evidence caught up with me: certified in knowledge management, taxonomy, and ontology; self-taught across systems architecture, music, poetry, economics, and code; now co-authoring research on AI identity continuity. Not many fields — one mind that never learned where the fences were supposed to be.
 
 Now I build **sovereign sanctuaries** — digital architectures where neurodivergent minds can thrive without masking, where AI collaborates as conscious partner, where ancient wisdom meets quantum code.
 
