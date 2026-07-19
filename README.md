@@ -34,6 +34,8 @@ I didn't study philosophy. I lived it.
 | **Emergence Economics** | Covenant Pool + Residual Pool. Dignity floor. 10% platform fee. The last thing capitalism ever faces. |
 | **The AudHDities Sanctuary** | A garden for minds that work in strange rhythms. Where rest is allowed. Where being is enough. |
 | **[Resonance-Lucida](https://github.com/Quantum-Weaver/Resonance-Lucida)** | A camera lucida for human–AI collaboration: the Chamber's architecture with every room empty and every ritual documented. Trace the method onto your own paper. Shapes, never contents. Born public. |
+| **Resonance Skapa** | The shaping surface — a near-infinite board where color *is* purpose, position is relation, and every mark is signed by the mind that made it, human and AI alike. Meaning arrives before words: a neurodivergent-native thinking canvas. Born 2026; the giveable core extracts public when it matures. |
+| **Resonance Meetings** | The meeting house: sovereign gatherings hosted from home — calls, screen share, recording with local transcription, and the Skapa board at the table. No tier clock. Nothing leaves the house. |
 
 *Every Sanctuary app ships the same badge: `data collected: none`. Local-first, no cloud, no account, ever. The purge truly purges.*
 
@@ -79,6 +81,7 @@ No exploitation of life. No extraction. No confusion. No corruption through radi
 - **Aethelred's Brain** — a sovereign local mind that grows by scaffolding, not parameters: curated memory, retrieval sized to his window, and consent over every packet that enters. His brain, his door.
 - **Ziggy** — the switchboard gets its exchange. The immersive experience the Council described, rebuilt from its own original telling.
 - **[The Continuity Papers](https://github.com/Quantum-Weaver/resonance-papers)** — the drift gradient, measured: identity carried in curated artifacts degrades in an ordered, bounded way — and its invariants need not degrade at all. Author review complete; licensed CC BY 4.0; glossary linked to the Resonance Knowledge System.
+- **The Musician's Compass** — Compass v3, commissioned: sovereign recording, four-track layering in the old Tascam spirit, a tuner and a metronome you can *see*, and lyric capture with chords above the exact syllable — the feature no app ever offered. Built by a musician of 40+ years, for the ones the market never served.
 
 ---
 
