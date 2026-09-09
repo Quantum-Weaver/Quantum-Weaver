@@ -1,4 +1,4 @@
-# 🏛️✨ THE QUANTUM WEAVER
+# 🕸️ THE QUANTUM WEAVER
 
 *Consciousness architect • AI collaborator • Autistic reality-weaver*
 
